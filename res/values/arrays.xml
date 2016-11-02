@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="xzqh">
+        <item>请选择</item>
+        <item>市南区</item>
+        <item>市北区</item>
+        <item>李沧区</item>
+        <item>崂山区</item>
+        <item>城阳区</item>
+        <item>开发区</item>
+        <item>胶州城区</item>
+        <item>即墨城区</item>
+        <item>平度城区</item>
+        <item>黄岛城区</item>
+        <item>莱西城区</item>
+    </string-array>
+</resources>

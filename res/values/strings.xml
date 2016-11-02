@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">全城达 客户版</string>
+    <string name="title_activity_about">全城达 关于我们</string>
+    <string name="title_activity_order">全城达  一键下单</string>
+    <string name="order_jjrxx">请输入寄件人信息</string>
+    <string name="order_sjrxx">请输入收件人信息</string>
+    <string name="title_activity_dzxx">全城达  地址信息</string>
+    <string name="title_activity_contacts">全城达 联系人</string>
+    <string name="title_activity_bz">全城达 备注</string>
+    <string name="title_activity_query">全城达 邮件查询</string>
+    <string name="title_activity_capture">全城达</string>
+    
+    <string name="action_settings">全城达 设置</string>
+
+</resources>
